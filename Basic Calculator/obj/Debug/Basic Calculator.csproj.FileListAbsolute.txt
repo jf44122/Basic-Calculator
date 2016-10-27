@@ -1,0 +1,9 @@
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\bin\Debug\Basic Calculator.pdb
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csprojResolveAssemblyReference.cache
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Form1.resources
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic_Calculator.Properties.Resources.resources
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.csproj.GenerateResource.Cache
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.exe
+C:\Users\ClevelandCodes\Desktop\CCProjects\Basic Calculator\Basic Calculator\obj\Debug\Basic Calculator.pdb
